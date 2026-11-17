@@ -1,9 +1,10 @@
 <div align="center">
   <img src="assets/profileBanner.jpg" width="100%" />
 </div>
+<samp>
 <div align="center">
 
-  # Hi, I'm Sandeep Kumar 👋
+  <strong><H2>Hi, I'm Sandeep Kumar</H2></strong>
 
   ### Full Stack Developer | MERN Stack | Backend Enthusiast
 
@@ -11,6 +12,7 @@
   and learning how scalable systems work.
 
 </div>
+</samp>
 
 ---
 
