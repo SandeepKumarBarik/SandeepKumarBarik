@@ -54,11 +54,6 @@ Permanently curious, aggressively hands-on, and always building something. Power
 A full-stack real-time messaging application built using the MERN stack, designed to provide seamless communication between users through an interactive chat interface.
 </p>
 
-<p align="center">
-  <img src="YOUR_CHAT_ARCHITECTURE_IMAGE_URL"
-    width="100%" alt="Real-Time Chat Application Architecture"/>
-</p>
-
 **Key Features:**
 - **Real-Time Messaging:** Instant communication between users.
 - **User Authentication:** Secure user registration and login.
@@ -80,19 +75,9 @@ A full-stack real-time messaging application built using the MERN stack, designe
 ---
 
 <h3>💠 URL Shortener</h3>
-
 <p>
 A full-stack URL shortening application that transforms lengthy URLs into compact, shareable links. Built with a React frontend and Node.js backend, with MongoDB handling URL data storage.
 </p>
-
-<p align="center">
-  <img
-    src="YOUR_URL_ARCHITECTURE_IMAGE_URL"
-    width="100%"
-    alt="URL Shortener Workflow"
-  />
-</p>
-
 **Key Features:**
 - **URL Shortening:** Convert long URLs into shorter, manageable links.
 - **Redirection:** Redirect users from short URLs to their original destinations.
@@ -101,14 +86,12 @@ A full-stack URL shortening application that transforms lengthy URLs into compac
 - **Responsive UI:** Simple interface for managing shortened links.
 
 **Tech Stack:**
-
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb" />
 </p>
-
 <p>
   <a href="YOUR_URL_LIVE_URL">Live Demo ↗</a> ·
-  <a href="YOUR_URL_GITHUB_URL">Source Code ↗</a>
+  <a href="https://github.com/SandeepKumarBarik/Url-Shortner-Website">Source Code ↗</a>
 </p>
 
 ---
