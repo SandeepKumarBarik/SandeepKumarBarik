@@ -97,19 +97,21 @@ A full-stack URL shortening application that transforms lengthy URLs into compac
 
 ---
 
+<h3 align="left">Connect With Me</h3>
+
+<p align="center">
+  <a href="www.linkedin.com/in/sandeep-kumar-barik-1baa23257">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kumarsandeep202202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/SandeepKumarBarik">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
-
-### Connect With Me
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sandeep-kumar-barik-1baa23257)
-
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-
-</div>
-
 
 <h2 align="center">Commit Activity</h2>
 <picture>
