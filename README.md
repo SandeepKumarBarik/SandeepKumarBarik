@@ -1,16 +1,13 @@
 <div align="center">
   <img src="assets/profileBanner.jpg" width="100%" />
 </div>
+
 <samp>
 <div align="center">
-
   <strong><H2>Hi, I'm Sandeep Kumar</H2></strong>
-
   ### Full Stack Developer | MERN Stack | Backend Enthusiast
-
   Building web applications, exploring backend engineering,
   and learning how scalable systems work.
-
 </div>
 </samp>
 
@@ -34,7 +31,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 </samp>
 
 ---
-
+<samp>
 ### Core Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,js,java" alt="Languages" />
 
@@ -49,7 +46,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ### OS & Development Environments
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea" alt="Tools" />
-
+</samp>
 ---
 
 ## 🚀 Featured Projects
