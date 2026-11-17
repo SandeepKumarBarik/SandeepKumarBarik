@@ -32,6 +32,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ---
 <samp>
+  
 ### Core Languages
 <img src="https://skillicons.dev/icons?i=cpp,c,js,java" alt="Languages" />
 
@@ -46,6 +47,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ### OS & Development Environments
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea" alt="Tools" />
+
 </samp>
 ---
 
