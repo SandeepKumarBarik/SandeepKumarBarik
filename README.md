@@ -4,10 +4,8 @@
 
 <samp>
 <div align="center">
-  <strong><H2>Hi, I'm Sandeep Kumar</H2></strong>
-  ### Full Stack Developer | MERN Stack | Backend Enthusiast
-  Building web applications, exploring backend engineering,
-  and learning how scalable systems work.
+  <strong><H2>Hii, I'm Sandeep</H2></strong>
+   MERN Stack Developer | Frontend to Backend | Always Building
 </div>
 </samp>
 
