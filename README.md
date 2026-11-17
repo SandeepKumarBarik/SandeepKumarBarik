@@ -48,63 +48,78 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ### Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-<h3 align="center">💬 Real-Time Chat Application</h3>
+<h2 align="center">🚀 Featured Projects</h2>
 
-<p align="center">
-  <img src="YOUR_CHAT_PROJECT_IMAGE_URL" width="100%" alt="Real-Time Chat Application"/>
-</p>
+---
+
+<h3>💬 Real-Time Chat Application</h3>
 
 <p>
-A real-time messaging application built to enable seamless communication between users with instant message delivery and a responsive interface.
+A full-stack real-time messaging application built using the MERN stack, designed to provide seamless communication between users through an interactive chat interface.
 </p>
 
 <p align="center">
+  <img
+    src="YOUR_CHAT_ARCHITECTURE_IMAGE_URL"
+    width="100%"
+    alt="Real-Time Chat Application Architecture"
+  />
+</p>
+
+**Key Features:**
+- **Real-Time Messaging:** Instant communication between users.
+- **User Authentication:** Secure user registration and login.
+- **Chat Management:** Organized messaging experience.
+- **Responsive Interface:** Clean and user-friendly design.
+- **Full Stack Architecture:** React frontend connected to Node.js and Express APIs.
+
+**Tech Stack:**
+
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <a href="YOUR_CHAT_LIVE_DEMO">
-    <img src="https://img.shields.io/badge/Live_Demo-6C3BDB?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_CHAT_GITHUB_REPO">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
+  <a href="YOUR_CHAT_LIVE_URL">Live Demo ↗</a> ·
+  <a href="YOUR_CHAT_GITHUB_URL">Source Code ↗</a>
 </p>
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-<h3 align="center">🔗 URL Shortener</h3>
-
-<p align="center">
-  <img src="YOUR_URL_SHORTENER_IMAGE_URL" width="100%" alt="URL Shortener"/>
-</p>
+<h3>🔗 URL Shortener</h3>
 
 <p>
-A URL shortening platform that converts long URLs into compact links, making link sharing easier and more convenient.
+A full-stack URL shortening application that transforms lengthy URLs into compact, shareable links. Built with a React frontend and Node.js backend, with MongoDB handling URL data storage.
 </p>
 
 <p align="center">
+  <img
+    src="YOUR_URL_ARCHITECTURE_IMAGE_URL"
+    width="100%"
+    alt="URL Shortener Workflow"
+  />
+</p>
+
+**Key Features:**
+- **URL Shortening:** Convert long URLs into shorter, manageable links.
+- **Redirection:** Redirect users from short URLs to their original destinations.
+- **Database Management:** Store and retrieve shortened URL records using MongoDB.
+- **RESTful APIs:** Handle URL creation and redirection through Express.
+- **Responsive UI:** Simple interface for managing shortened links.
+
+**Tech Stack:**
+
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
 
-<p align="center">
-  <a href="YOUR_URL_LIVE_DEMO">
-    <img src="https://img.shields.io/badge/Live_Demo-6C3BDB?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="YOUR_URL_GITHUB_REPO">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p>
+  <a href="YOUR_URL_LIVE_URL">Live Demo ↗</a> ·
+  <a href="YOUR_URL_GITHUB_URL">Source Code ↗</a>
 </p>
 
-</td>
-</tr>
-</table>
+---
 
 
 ---
