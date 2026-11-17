@@ -90,10 +90,15 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 
 <h2 align="center">⌘ Commit Activity</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman.svg"
-    alt="Pac-Man Contribution Graph" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman-contribution-graph.svg"/>
+  <img alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman-contribution-graph.svg"
+    width="100%"/>
+</picture>
 
 
 <div align="center">
