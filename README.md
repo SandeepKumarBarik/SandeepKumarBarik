@@ -88,10 +88,13 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 </div>
 
+
 <h2 align="center">⌘ Commit Activity</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
+  <img src="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman.svg"
+    alt="Pac-Man Contribution Graph" width="100%"/>
 </p>
+
 
 <div align="center">
 
