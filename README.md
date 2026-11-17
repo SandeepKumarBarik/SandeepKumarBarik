@@ -30,7 +30,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 <samp>
   
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,js,java" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js" alt="Languages" />
 
 ### Backend Architecture & Databases
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend & DB" />
@@ -48,11 +48,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 <h2 align="left">Featured Projects</h2>
 
-
----
-
 <h3>💠 Style Hub</h3>
-
 <p>
 A modern web platform focused on style and fashion, designed with a clean interface and an engaging browsing experience.
 </p>
@@ -66,20 +62,13 @@ A modern web platform focused on style and fashion, designed with a clean interf
 **Tech Stack:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,node,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mongodb" />
 </p>
 
 <p>
-  <a href="https://style-hub-nine-taupe.vercel.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-6C3BDB?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/SandeepKumarBarik/StyleHub">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://style-hub-nine-taupe.vercel.app/">Live Demo ↗</a> ·
+  <a href="https://github.com/SandeepKumarBarik/StyleHub">Source Code ↗</a>
 </p>
-
----
-
 
 ---
 
