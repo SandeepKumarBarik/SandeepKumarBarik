@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/King Canute_Vinland Saga.jpg" width="100%" />
+  <img src="banner.jpg" width="100%" />
 </div>
 <div align="center">
 
