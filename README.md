@@ -17,7 +17,7 @@
 ---
 
 <samp>
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <img align="right" src="assets/astro.png" width="280" alt="Astro Illustration"/>
 
@@ -87,6 +87,11 @@ Permanently curious, aggressively hands-on, and always building something. Power
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
 
 </div>
+
+<h2 align="center">⌘ Commit Activity</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/icecoffie/icecoffie/output/pacman-contribution-graph-dark.svg" alt="pacman contribution graph">
+</p>
 
 <div align="center">
 
