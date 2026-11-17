@@ -46,25 +46,17 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ---
 
-### Featured Projects
+<h2 align="left">Featured Projects</h2>
 
-
-<h2 align="center">🚀 Featured Projects</h2>
-
----
-
-<h3>💬 Real-Time Chat Application</h3>
+<h3>💠 Real-Time Chat Application</h3>
 
 <p>
 A full-stack real-time messaging application built using the MERN stack, designed to provide seamless communication between users through an interactive chat interface.
 </p>
 
 <p align="center">
-  <img
-    src="YOUR_CHAT_ARCHITECTURE_IMAGE_URL"
-    width="100%"
-    alt="Real-Time Chat Application Architecture"
-  />
+  <img src="YOUR_CHAT_ARCHITECTURE_IMAGE_URL"
+    width="100%" alt="Real-Time Chat Application Architecture"/>
 </p>
 
 **Key Features:**
@@ -77,17 +69,17 @@ A full-stack real-time messaging application built using the MERN stack, designe
 **Tech Stack:**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,jwt,socket.io" />
 </p>
 
 <p>
   <a href="YOUR_CHAT_LIVE_URL">Live Demo ↗</a> ·
-  <a href="YOUR_CHAT_GITHUB_URL">Source Code ↗</a>
+  <a href="https://github.com/SandeepKumarBarik/Chat-Application">Source Code ↗</a>
 </p>
 
 ---
 
-<h3>🔗 URL Shortener</h3>
+<h3>💠 URL Shortener</h3>
 
 <p>
 A full-stack URL shortening application that transforms lengthy URLs into compact, shareable links. Built with a React frontend and Node.js backend, with MongoDB handling URL data storage.
