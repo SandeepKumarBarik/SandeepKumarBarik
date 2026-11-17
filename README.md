@@ -1,22 +1,12 @@
 <div align="center">
   <img src="assets/banner.jpg" width="100%" />
 </div>
-<div align="center">
+<pre>
+Hi, I'm Sandeep Kumar
 
-  <img src="assets/banner.gif" width="100%" alt="Profile Banner" />
-
-  # Hi, I'm Sandeep Kumar 👋
-
-  ### Full Stack Developer | MERN Stack | Backend Enthusiast
-
-  Building web applications, exploring backend engineering,
-  and learning how scalable systems work.
-
-  [Portfolio](YOUR_PORTFOLIO_URL) •
-  [LinkedIn](YOUR_LINKEDIN_URL) •
-  [Email](mailto:YOUR_EMAIL)
-
-</div>
+Full Stack Developer obsessed with building
+web applications and exploring backend engineering.
+</pre>
 
 ---
 
