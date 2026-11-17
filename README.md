@@ -10,10 +10,6 @@
   Building web applications, exploring backend engineering,
   and learning how scalable systems work.
 
-  [Portfolio](YOUR_PORTFOLIO_URL) •
-  [LinkedIn](www.linkedin.com/in/sandeep-kumar-barik-1baa23257) •
-  [Email](mailto:YOUR_EMAIL)
-
 </div>
 
 ---
