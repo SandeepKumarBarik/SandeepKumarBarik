@@ -12,7 +12,7 @@
 ---
 
 <samp>
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 <img align="right" src="assets/astro.png" width="280" alt="Astro Illustration"/>
 
@@ -58,22 +58,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ---
 
-### GitHub Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-</div>samp>
-
----
-
-## 🤝 Connect With Me
+### Connect With Me
 
 <div align="center">
 
@@ -84,7 +69,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 </div>
 
 
-<h2 align="center">⌘ Commit Activity</h2>
+<h2 align="center">Commit Activity</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman-contribution-graph-dark.svg"/>
@@ -96,14 +81,13 @@ Permanently curious, aggressively hands-on, and always building something. Power
 </picture>
 
 ---
-<samp>
 
-<h2 align="center">⌘ Quote</h2>
+<h2 align="center">Quote</h2>
 
 <p align="center">
-  <em>"Wenn man richtig will, schafft man das."</em>
+  <em>"Think big. Code smart. Stay humble."</em>
   <br>
-  <sub>— Malsky</sub>
+  <sub>— Sandeep</sub>
 </p>
 
 <div align="center">
