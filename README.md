@@ -97,23 +97,24 @@ A full-stack URL shortening application that transforms lengthy URLs into compac
 
 ---
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="left"> Connect With Me</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sandeep-kumar-barik-1baa23257">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/sandeep-kumar-barik-1baa23257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kumarsandeep202202@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/SandeepKumarBarik">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
+
 ---
 
-<h2 align="center">Commit Activity</h2>
+<h2 align="left">Commit Activity</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/SandeepKumarBarik/SandeepKumarBarik/output/pacman-contribution-graph-dark.svg"/>
