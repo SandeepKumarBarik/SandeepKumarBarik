@@ -24,8 +24,6 @@ My days basically go: dream up an idea → write some code → break everything 
 
 Permanently curious, aggressively hands-on, and always building something. Powered by coffee, curiosity, late-night debugging sessions, and the belief that every problem has a solution (even if it takes 47 Stack Overflow tabs to find it). 🚀
 
-
-<br clear="right"/>
 </samp>
 
 ---
