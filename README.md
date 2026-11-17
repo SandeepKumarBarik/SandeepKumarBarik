@@ -44,9 +44,8 @@ Permanently curious, aggressively hands-on, and always building something. Power
 ### OS & Development Environments
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,vscode,idea" alt="Tools" />
 
-</samp>
 ---
-<samp>
+
 ### Featured Projects
 
 | Project | Description | Tech Stack |
