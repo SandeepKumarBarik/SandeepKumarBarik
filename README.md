@@ -17,7 +17,7 @@
 ---
 
 <samp>
-## 👨‍💻 About Me
+## About Me
 
 - 🎓 B.Tech Computer Science & Engineering graduate.
 - 💻 Passionate about Full Stack Web Development.
