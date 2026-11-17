@@ -16,6 +16,7 @@
 
 ---
 
+<samp>
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science & Engineering graduate.
@@ -24,6 +25,7 @@
 - ⚙️ Interested in backend engineering and system design.
 - 🌱 Currently learning Docker, NGINX and Load Balancing.
 - 🎯 Focused on writing clean, maintainable and scalable code.
+</samp>
 
 ---
 
