@@ -48,13 +48,64 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ### Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| Real-Time Chat App | Real-time messaging application | MERN |
-| URL Shortener | Shorten and manage URLs | MERN |
-| Task Management App | Manage tasks, reminders and productivity | MERN |
-| Weather App | Weather information application | HTML, CSS, JS |
-| Resume Builder | Create professional resumes | React |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💬 Real-Time Chat Application</h3>
+
+<p align="center">
+  <img src="YOUR_CHAT_PROJECT_IMAGE_URL" width="100%" alt="Real-Time Chat Application"/>
+</p>
+
+<p>
+A real-time messaging application built to enable seamless communication between users with instant message delivery and a responsive interface.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <a href="YOUR_CHAT_LIVE_DEMO">
+    <img src="https://img.shields.io/badge/Live_Demo-6C3BDB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_CHAT_GITHUB_REPO">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔗 URL Shortener</h3>
+
+<p align="center">
+  <img src="YOUR_URL_SHORTENER_IMAGE_URL" width="100%" alt="URL Shortener"/>
+</p>
+
+<p>
+A URL shortening platform that converts long URLs into compact links, making link sharing easier and more convenient.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <a href="YOUR_URL_LIVE_DEMO">
+    <img src="https://img.shields.io/badge/Live_Demo-6C3BDB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="YOUR_URL_GITHUB_REPO">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
