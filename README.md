@@ -17,14 +17,20 @@
 ---
 
 <samp>
-## About Me
+<h2 align="center">🚀 About Me</h2>
 
-- 🎓 B.Tech Computer Science & Engineering graduate.
-- 💻 Passionate about Full Stack Web Development.
-- 🚀 Building applications using the MERN stack.
-- ⚙️ Interested in backend engineering and system design.
-- 🌱 Currently learning Docker, NGINX and Load Balancing.
-- 🎯 Focused on writing clean, maintainable and scalable code.
+<img align="right" src="assets/astro.png" width="280" alt="Astro Illustration"/>
+
+So here's the chai ☕ I'm a Full Stack Developer who enjoys turning random ideas into actual working products. I spend my time jumping between frontend pixels, backend logic, databases, and occasionally wondering why something worked five minutes ago but doesn't anymore.
+
+I blend JavaScript, React, Node.js, MongoDB, and a questionable number of open browser tabs to build things that actually work. I love getting my hands dirty with backend engineering, exploring system architecture, and figuring out what happens under the hood.
+
+My days basically go: dream up an idea → write some code → break everything → stare at the terminal → fix the bug → discover three new bugs → repeat until it works. And when it finally does, obviously, it was all part of the plan.
+
+Permanently curious, aggressively hands-on, and always building something. Powered by coffee, curiosity, late-night debugging sessions, and the belief that every problem has a solution (even if it takes 47 Stack Overflow tabs to find it). 🚀
+
+
+<br clear="right"/>
 </samp>
 
 ---
