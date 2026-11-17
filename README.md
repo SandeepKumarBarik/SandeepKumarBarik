@@ -48,8 +48,8 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 </samp>
 ---
-
-## 🚀 Featured Projects
+<samp>
+### Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
@@ -61,7 +61,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
 
 ---
 
-## 📊 GitHub Statistics
+### GitHub Statistics
 
 <div align="center">
 
@@ -72,6 +72,7 @@ Permanently curious, aggressively hands-on, and always building something. Power
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
+</div>samp>
 
 ---
 
@@ -97,9 +98,19 @@ Permanently curious, aggressively hands-on, and always building something. Power
     width="100%"/>
 </picture>
 
+---
+<samp>
+
+<h2 align="center">⌘ Quote</h2>
+
+<p align="center">
+  <em>"Wenn man richtig will, schafft man das."</em>
+  <br>
+  <sub>— Malsky</sub>
+</p>
 
 <div align="center">
-
-  ### Thanks for visiting my profile! ⭐
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
 </div>
+
+<samp>
